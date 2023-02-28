@@ -33,9 +33,6 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 ##############################
 # Get some data to work with
 ##############################
-# To get the data, you can just download the zip file from the GitHub page
-# Or if you want to go through the cleaning/organizing process yourself, the below steps should help.
-
 # https://www.kaggle.com/datasets/tongpython/cat-and-dog
 # 1. Download the data from the link above and extract it to a local folder
 # 2. You will need to rename the folders inside of the root folder to "Train" and "Test"
